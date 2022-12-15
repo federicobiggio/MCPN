@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 768,
+    "id" : "https://federicobiggio.github.io/MCPN/images/15301001/canvas/",
+    "label" : {
+      "none" : [ "15301001" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://federicobiggio.github.io/MCPN/images/15301001/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://federicobiggio.github.io/MCPN/images/15301001/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 24,
+              "height" : 16
+            }, {
+              "width" : 48,
+              "height" : 31
+            }, {
+              "width" : 96,
+              "height" : 62
+            }, {
+              "width" : 192,
+              "height" : 123
+            }, {
+              "width" : 384,
+              "height" : 245
+            }, {
+              "width" : 768,
+              "height" : 490
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 768,
+            "@id" : "https://federicobiggio.github.io/MCPN/images/15301001",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 490
+          } ],
+          "format" : "image/jpeg",
+          "width" : 768,
+          "id" : "https://federicobiggio.github.io/MCPN/images/15301001/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 490
+        },
+        "target" : "https://federicobiggio.github.io/MCPN/images/15301001/canvas/"
+      } ]
+    } ],
+    "height" : 490
+  }, {
     "width" : 300,
     "id" : "https://federicobiggio.github.io/MCPN/images/2022_1/canvas/",
     "label" : {
