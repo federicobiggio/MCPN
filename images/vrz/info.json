@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 250,
+    "height" : 160
+  }, {
+    "width" : 500,
+    "height" : 319
+  }, {
+    "width" : 1000,
+    "height" : 638
+  }, {
+    "width" : 2000,
+    "height" : 1276
+  }, {
+    "width" : 4000,
+    "height" : 2552
+  }, {
+    "width" : 8000,
+    "height" : 5104
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 8000,
+  "@id" : "https://federicobiggio.github.io/MCPN/images/vrz",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5104
+}
