@@ -1,5 +1,5 @@
 # indtrat23
-Dépôt des cours d'indexation et de traitement d'images (Master MCPN)
+Dépôt du cours d'indexation et de traitement d'images (Master MCPN)
 
 ### Programme
 
