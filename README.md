@@ -15,9 +15,9 @@ Tous les cours ont lieu de 14h15 à 18h.
 ### Objectives
 
 * acquérir les connaissances voulues pour gérer la totalité du processus de numérisation des images, savoir lire et écrire les métadonnées des images et les règles de leur gestion documentaire
-* Acquérir des connaissances théoriques et pratiques en matière d’indexation 
-* Apprenez les bases du traitement des images visuelles, ainsi que les objectifs scientifiques de ces procédures
-* Expérimenter les outils IIIF pour l’interopérabilité avec les images d’archives
+* acquérir des connaissances théoriques et pratiques en matière d’indexation 
+* apprenez les bases du traitement des images visuelles, ainsi que les objectifs scientifiques de ces procédures
+* expérimenter les outils IIIF pour l’interopérabilité avec les images d’archives
 
 
 
