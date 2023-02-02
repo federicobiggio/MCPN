@@ -1,10 +1,10 @@
+
+Cranach Digital Archive
 [https://lucascranach.org/home](https://lucascranach.org/en/search/)
 
-gettyimages.fr
-www.heritage-images.com
-
-
+Les Archives départementales de Loire-Atlantique
 https://tinyurl.com/mweyxy5f
+
 https://www.bm-lyon.fr/
 https://numelyo.bm-lyon.fr/include/babelyo/app/01ICO001/
 https://www.videomuseum.fr/fr/home_collN3
@@ -41,4 +41,5 @@ http://www.artcyclopedia.com/
 
 https://www.documentsdartistes.org/index.php
 
-	
+eHRAF databases
+https://ehrafworldcultures.yale.edu/subjects
