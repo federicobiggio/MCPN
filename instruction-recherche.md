@@ -2,6 +2,12 @@
 
 Google Images
 Wikidata Query Service
+Flickr
+Getty images
+Pinterest
+Opeclipart
+
+Tiny eye : reverse image search 
 
 Types of images pertinent to our course (50-100)
 
