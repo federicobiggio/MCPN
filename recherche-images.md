@@ -11,8 +11,8 @@ Resolution & format: <br>
 > 24-bit images (true color) 
 
 Pour télécharger des images (plugins sur Firefox)...
-	•	Download all images
-	•	Down Them All!
+* Download all images
+* Down Them All!
     
 ***Pour chercher des images...***
 
