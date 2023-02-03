@@ -10,7 +10,7 @@ Resolution & format: <br>
 > Compressed: JPG or PNG (no animated GIFs) <br>
 > 24-bit images (true color) 
 
-Pour télécharger des images (plugins sur Firefox)...
+***Pour télécharger des images (plugins sur Firefox)...***
 * Download all images
 * Down Them All!
     
