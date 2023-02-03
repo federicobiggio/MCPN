@@ -1,0 +1,1 @@
+L'attività odierna consisterà nel creare un repository di immagini

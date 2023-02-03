@@ -1,3 +1,4 @@
+***Archives***
 
 Cranach Digital Archive
 [https://lucascranach.org/home](https://lucascranach.org/en/search/)
@@ -6,6 +7,7 @@ Les Archives départementales de Loire-Atlantique
 https://tinyurl.com/mweyxy5f
 
 https://www.bm-lyon.fr/
+
 https://numelyo.bm-lyon.fr/include/babelyo/app/01ICO001/
 https://www.videomuseum.fr/fr/home_collN3
 https://collection.centrepompidou.fr/artworks
@@ -25,7 +27,7 @@ Historical Photographs of China www.hpcbristol.sjtu.edu.cn/
 
  In the Spotlight http://playbills.libcrowds.com/
 
- Pacific and Regional Archive for Digital Sources in Endangered Cul- tures (PARADISEC) https://catalog.paradisec.org.au/
+ Pacific and Regional Archive for Digital Sources in Endangered Cul- tures (PARADISEC)https://catalog.paradisec.org.au/
 
 Renaissance Lyon: Le Plan Scénographique c. 1550 www.renlyon.org
 
