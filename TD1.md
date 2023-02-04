@@ -10,8 +10,7 @@ L'activité d'aujourd'hui consistera à créer un archive individuel d'images (v
 * date
 * createur
 * format
-4. Sur la base des informations recueillies, créez un thésaurus avec OpenTheso.
-
+4. Sur la base des informations recueillies, créez un thésaurus avec OpenTheso (voir dossier sur GitHub)
 
 Pour la semaine prochaine :
 * installez Omeka
