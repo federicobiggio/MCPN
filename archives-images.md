@@ -8,6 +8,8 @@ https://tinyurl.com/mweyxy5f
 
 https://www.bm-lyon.fr/
 
+https://www.bnf.fr/fr/archives-de-linternet
+
 https://numelyo.bm-lyon.fr/include/babelyo/app/01ICO001/
 https://www.videomuseum.fr/fr/home_collN3
 https://collection.centrepompidou.fr/artworks
