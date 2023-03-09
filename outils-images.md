@@ -15,3 +15,13 @@
 * archives-images.md (dans dossier IIIF, uniquement pour l'exercice avec IIIF)
 
 
+* Vision
+https://cloud.google.com/vision?hl=it
+
+* Color picker
+https://labs.tineye.com/color/
+
+* HSV e RGB analysis
+http://mkweb.bcgsc.ca/color-summarizer/?analyze
+
+
