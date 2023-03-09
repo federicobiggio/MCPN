@@ -5,12 +5,12 @@ Dépôt du cours d'indexation et de traitement d'images (Master MCPN)
 
 Tous les cours ont lieu de 14h15 à 18h.
 
-* 09.03.23 : introduction, l'indexation et la sémiotique visuelle, omeka
+* 09.03.23 (en visio) : introduction, l'indexation et la sémiotique visuelle, omeka
 * 16.03.23 : l'image numerique et opentheso, développement du site omeka
 * 23.03.23 : photoshop 1, théorie et pratique des filtres
 * 30.03.23 : IIIF, réalisation de l'exposition virtuelle
 * 06.04.23 : photoshop 2, réalisation de l'exposition virtuelle et développement du site omeka
-* 13.04.23 (en visio) exposés
+* 13.04.23 (en visio) : exposés
 
 ### Objectives
 
